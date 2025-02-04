@@ -5,7 +5,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     window.location.href = '/pages/admin/dashboard.html';
   });
 
-  //temporary na redirection
+  //temporary na redirection from login to admin dashboard
   function redirectToDashboard() {
     window.location.href = '/pages/admin/dashboard.html';
 }
