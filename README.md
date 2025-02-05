@@ -25,11 +25,11 @@ Big Paws Petsupplies is transforming how we communicate and manage pets at our h
 
 ## 🔧 Tech Stack
 
-- **Frontend**: ReactJS (For the customer portal)
-- **Backend**: Node.js (Server-side logic)
-- **Database**: MongoDB (Storing pet and owner information)
+- **Frontend**: Vanilla kay hasol JSX unya is 2.5 rata (For the customer portal)
+- **Backend**: --Canedo ra edit ani--
+- **Database**: --Canedo ra edit ani--
 - **Notifications**: Email & Push Notifications (For update requests)
-- **Authentication**: JWT (For secure login)
+- **Authentication**: --Canedo ra edit ani--
 
 ## 📂 Installation
 
