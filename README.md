@@ -1,7 +1,7 @@
-# 🐾 Big Paws Petsupplies - Pet Hotel & Daycare System
+# 🐾 Big Paws Petsupplies - Pet Hotel & Accesories Web App
 
 
-![Big Paws Petsupplies Logo]![BigPawsLogoBig](https://github.com/user-attachments/assets/98dbf8be-dcf0-43f5-9d0c-6104efe8afd9)
+[BigPawsLogoBig](https://github.com/user-attachments/assets/98dbf8be-dcf0-43f5-9d0c-6104efe8afd9)
 
 Welcome to **Big Paws Petsupplies**! Our pet hotel offers premium boarding, daycare, and pet care services for all your furry friends. This system aims to streamline communication, organize pet care information, and provide a better experience for both our staff and pet owners.
 
