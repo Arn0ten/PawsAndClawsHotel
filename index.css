@@ -74,12 +74,17 @@ h1 {
 .bouncing-text span:nth-child(15) { animation-delay: 1.5s; }
 .bouncing-text span:nth-child(16) { animation-delay: 1.6s; }
 .bouncing-text span:nth-child(17) { animation-delay: 1.7s; }
+.bouncing-text span:nth-child(18) { animation-delay: 1.8s; }
 
 /* Ensure text remains visible permanently after animation */
 .bouncing-text span:last-child {
     animation-fill-mode: forwards;
 }
-
+#skipBtn {
+    background-color: #ff914d;
+    border-color: #ff914d;
+  }
+  
 /* Responsive font size */
 @media (max-width: 768px) {
     .bouncing-text {
